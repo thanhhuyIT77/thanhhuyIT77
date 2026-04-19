@@ -50,20 +50,6 @@ Một chuyên gia phát triển hệ thống ERP với tư duy tối ưu hóa qu
 
 ---
 
-### 📊 Performance Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhtin4401&show_icons=true&theme=transparent&title_color=714B67&icon_color=714B67&text_color=ffffff&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtin4401&layout=compact&theme=transparent&title_color=714B67&text_color=ffffff&hide_border=true" width="45%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtin4401&theme=transparent&currStreakLabel=714B67&fire=714B67&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="94%" />
-</div>
-
----
-
 ### 🛠️ Development Workflow
 - **VCS:** Git Flow (Gitlab/Github/Bitbucket)
 - **CI/CD:** Dockerized Odoo Environments
