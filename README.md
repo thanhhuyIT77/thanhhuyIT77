@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=714B67&height=250&section=header&text=NGUYEN%20THANH%20HUY&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Senior%20Odoo%20Developer%20|%20Solution%20Architect&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=714B67&height=250&section=header&text=NGUYEN%20THANH%20HUY&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Middle%20Odoo%20Developer%20|%20Solution%20Architect&descAlignY=60&descSize=25" width="100%" />
 </div>
 
 <div align="center">
